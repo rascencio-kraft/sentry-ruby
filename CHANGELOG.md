@@ -7,6 +7,7 @@
 - Set default app dirs pattern ([#2390](https://github.com/getsentry/sentry-ruby/pull/2390))
 - Verifies presence of client before adding a breadcrumb ([#2394](https://github.com/getsentry/sentry-ruby/pull/2394))
 - Add new `strip_backtrace_load_path` boolean config (default true) to enable disabling load path stripping ([#2409](https://github.com/getsentry/sentry-ruby/pull/2409))
+- Experimental support for multi-threaded debugging using Vernier ([#2372](https://github.com/getsentry/sentry-ruby/pull/2372))
 
 ### Bug Fixes
 
