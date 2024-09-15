@@ -6,6 +6,10 @@
 - Support human readable intervals in `sidekiq-cron` ([#2387](https://github.com/getsentry/sentry-ruby/pull/2387))
 - Set default app dirs pattern ([#2390](https://github.com/getsentry/sentry-ruby/pull/2390))
 
+### Bug Fixes
+
+- Prevent Hub from having nil scope and client ([#2402](https://github.com/getsentry/sentry-ruby/pull/2402))
+
 ## 5.19.0
 
 ### Features
